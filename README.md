@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm k-sugawara7201</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm koki sugawara</h1>
+<h3 align="center">I am a Japanese developer who wants to become a full stack engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-sugawara7201" alt="k-sugawara7201" /></a> </p>
+- 🔭 I’m currently working on **Training at the company**
+
+- 🌱 I’m currently learning **Application development using Next.js**
+
+- 🤝 I’m looking for help with **About Next.js and TypeScript development**
+
+- 💬 Ask me about **HTML, CSS and Python**
+
+- ⚡ Fun fact **Playing sports and learning new skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-sugawara7201&show_icons=true&locale=en&layout=compact" alt="k-sugawara7201" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-sugawara7201&show_icons=true&locale=en" alt="k-sugawara7201" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-sugawara7201&" alt="k-sugawara7201" /></p>
